@@ -27,16 +27,16 @@ but while considering a GENERIC model finding optimal eps for each dataset using
 graph is tedious. so OPTICS is a good choice. also using OPTICS the model get good silhouette scores too.
 
 ## about sample data:
-While looking into the sample data we may think there are lot of outliers. but when closely watch the dat we can see this is not
+While looking into the sample data we may think there are lot of outliers. but when closely watch the data we can see this is not
 the case.The range of values is too large but some are also similar in some ways.
 
 The algorithm run on 4 different datasets and obtained descent silhouette scores from 0.64 to 0.92.
-Sinve we want to make it a generalized model, tuned it according to give a general decent performance.
+Since we want to make it a generalized model, tuned it according to give a general decent performance.
 
 ## Prerequisites:
 - DataFrame must contain a TIMESTAMP column
 - The column input must be continuous (Normally we cant say outliers in categorical data. even if one present
-   may be it is another category
+   may be it is another category)
    
 ## Working
 - install the requirements file
