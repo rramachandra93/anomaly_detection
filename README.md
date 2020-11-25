@@ -51,7 +51,7 @@ The output will be saved on an excel sheet named anomaly_values.xlsx
 Output contains timestap of anomaly values and curresponding anomaly values itself.
 
 Output excel sheet:
-![Anomaly_values excel sheet](Screenshots\excel_sheet.png)
+![picture](https://github.com/rramachandra93/anomaly_detection/blob/main/Screenshots/excel_sheet.png)
 
 console output:
-![picture](Screenshots\output.png)
+![picture](https://github.com/rramachandra93/anomaly_detection/blob/main/Screenshots/output.png)
